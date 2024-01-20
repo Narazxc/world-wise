@@ -5,7 +5,7 @@ import Message from "./Message";
 import { useCities } from "../contexts/CitiesContext";
 
 // styles
-import styles from "./countryList.module.css";
+import styles from "./CountryList.module.css";
 
 function CountryList() {
   const { cities, isLoading } = useCities();
