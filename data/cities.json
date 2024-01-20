@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Faro",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-10-16T15:55:17.591Z",
+      "notes": "wow",
+      "position": {
+        "lat": "37.07271048132946",
+        "lng": "-7.910156250000001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Shisui",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2023-10-16T15:57:21.661Z",
+      "notes": "wow",
+      "position": {
+        "lat": "35.746512259918504",
+        "lng": "140.27343750000003"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Gumi",
+      "country": "Korea (the Republic of)",
+      "emoji": "🇰🇷",
+      "date": "2023-10-27T07:10:26.760Z",
+      "notes": "",
+      "position": {
+        "lat": "36.1733569352216",
+        "lng": "128.32031250000003"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Baray",
+      "country": "Cambodia",
+      "emoji": "🇰🇭",
+      "date": "2023-10-27T07:10:36.173Z",
+      "notes": "",
+      "position": {
+        "lat": "12.382928338487396",
+        "lng": "104.94140625000001"
+      },
+      "id": 98443202
+    }
+  ]
+}
